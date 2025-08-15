@@ -1,4 +1,4 @@
-Decoder-only generative model implemented from scratch based on the GPT-2/GPT-Neo architecture, featuring Transformer blocks with masked multi-head self-attention (local and global) for autoregressive text generation.
+Decoder-only generative model implemented from scratch based on GPT-2/GPT-Neo architecture, featuring Transformer blocks with masked multi-head self-attention (local and global) for autoregressive text generation.
 
 The configured 41M model was pre-trained on the [TinyStories dataset](https://huggingface.co/datasets/roneneldan/TinyStories), which comprises short, synthetically-generated (using GPT-3.5 and GPT-4) children’s stories. The [TinyStories paper by Microsoft Research](https://arxiv.org/abs/2305.07759) showed that very Small Language Models (SLMs) can learn to generate coherent, diverse texts, and even demonstrate limited reasoning capabilities.
 
