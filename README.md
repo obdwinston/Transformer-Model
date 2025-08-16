@@ -25,4 +25,4 @@ Examples of the model-generated texts are given below, with the prompt highlight
 > <mark>There once was a boy who lived in a small house.</mark> He was very curious and wanted to explore the world around him. One day, he decided to go outside and see what he could find.
 > He walked around the garden, looking at all the plants and trees. He was so excited to explore. Suddenly, he heard a loud noise and saw a big, scary monster! The boy was so scared, he ran away as fast as he could.
 
-<img width="931" height="1281" alt="transformer-model" src="https://github.com/user-attachments/assets/c87f381f-6cff-4e3c-a4bb-ec122b8eb953" />
+<img width="1367" height="1892" alt="transformer-model" src="https://github.com/user-attachments/assets/6820bb61-6151-4f7f-9f36-084d197f43cf" />
